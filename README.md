@@ -10,6 +10,7 @@ Due to intellectual property rights we cannot share the source code but are able
 
 Monterey Phoenix (MP) is a Navy-developed formal language and approach for modeling systems, software, hardware, people, organizational, and/or environmental behaviors and their interactions with one another. MP models these behaviors at a high level to describe operational / business processes or architecture designs, and supports behavior descriptions down to the detailed design level.
 
+* [View screenshots of the application here](/project)
 * [Go to the application](http://firebird.nps.edu/)
 * [View the wiki, documentation, talks, manual, and other supporting material](https://wiki.nps.edu/display/MP/Monterey+Phoenix+Home)
 
@@ -23,6 +24,7 @@ The application was built using:
 
 The Hurricane Simulator is...
 
+* [View screenshots of the application here](/project)
 * [Go to the application]()
 
 The application was built using:
@@ -35,6 +37,7 @@ The application was built using:
 
 The FAST tool is...
 
+* [View screenshots of the application here](/project)
 * [Go to the application]()
 
 The application was built using:
@@ -47,6 +50,7 @@ The application was built using:
 
 The Zefra Wargaming application is...
 
+* [View screenshots of the application here](/project)
 * [Go to the application]()
 
 The application was built using:
@@ -59,6 +63,7 @@ The application was built using:
 
 The 2038 Wargame is...
 
+* [View screenshots of the application here](/project)
 * [Go to the application]()
 
 The application was built using:
@@ -71,6 +76,7 @@ The application was built using:
 
 DRMI is...
 
+* [View screenshots of the application here](/project)
 * [Go to the application]()
 
 The application was built using:
