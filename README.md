@@ -16,7 +16,7 @@ Monterey Phoenix (MP) is a Navy-developed formal language and approach for model
 
 The application was built using:
 
-* JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, GoJS, etc.
+* JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, GoJS, Docker, webpack, etc.
 
 ## Hurricane Simulator
 
@@ -29,7 +29,7 @@ The Hurricane Simulator is...
 
 The application was built using:
 
-* JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, etc.
+* JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, Docker, webpack, etc.
 
 ## FAST - Functional Administrative Support Tool
 
@@ -44,7 +44,7 @@ Administrative clerks create dynamic action items by guiding a Marine through ta
 
 The application was built using:
 
-* JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, GoJS, etc.
+* JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, Docker, webpack, etc.
 
 ## Wargaming Activity Hub
 
@@ -57,7 +57,7 @@ The Wargaming Activity Hub Website is...
 
 The application was built using:
 
-* PHP, Wordpress, Learnpress etc.
+* PHP, Wordpress, LearnPress etc.
 
 ## The Zefra Scenario
 
@@ -70,7 +70,7 @@ The Zefr Scenario  is...
 
 The application was built using:
 
-* JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, etc. 
+* Adobe Illustrator, JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, Docker, webpack, etc. 
 
 ## 2038 Wargame
 
@@ -83,7 +83,7 @@ The 2038 Wargame is...
 
 The application was built using:
 
-* Python 3, Django, Bootstrap
+* Python 3, Django, Bootstrap, Docker, etc.
 
 ## DRMI
 
@@ -96,4 +96,4 @@ The DRMI Accounting Modules are part of a free online course provided by the Nav
 
 The application was built using:
 
-* JavaScript (ECMA2018), React, Redux, Node, Express, Gulp, etc.
+* JavaScript (ECMA2018), Node, Express, Gulp, etc.
